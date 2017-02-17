@@ -1,6 +1,7 @@
 /* global $, Highcharts */
 // TODO make this better
 var knownNodes = {
+  34: 'Out Back',
   254: 'Porch',
   159: 'Inside'
 };
